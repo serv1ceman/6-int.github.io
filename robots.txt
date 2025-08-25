@@ -1,4 +1,3 @@
 #Nothing for you to enumerate 😹
 User-agent: *
 Allow: /
-Disallow: /*
